@@ -24,3 +24,6 @@ You can go to this link to learn how to get it: https://www.geeksforgeeks.org/ho
 8. The random string of letter and numbers after the word secret is your Client Secret
 
  You might have to click edit under developed applications to see it
+
+
+It will download the comments and written posts as csv files

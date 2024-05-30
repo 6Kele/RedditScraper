@@ -1,6 +1,34 @@
 # RedditScraper
 A Reddit Mass Scraper
 
+Step-by-Step Installation Guide
+
+1. Clone the GitHub Repository
+First, clone your GitHub repository containing 
+
+git clone https://github.com/your-username/reddit-mass-scraper.git
+cd reddit-mass-scraper
+
+2. Install Python
+Ensure Python 3.x is installed on your system. You can check the Python version with:
+
+python --version
+in your termial
+
+3.Install pip
+
+If pip is not installed with Python, install it using your package manager or by following the instructions on pip.pypa.io.
+
+4. Install Required Python Packages
+Navigate to the project directory and install the required Python packages using pip and the requirements.txt file:
+
+Type this into the termial:
+
+cd reddit-mass-scraper
+pip install -r requirements.txt
+
+
+
 You need a reddit account for this program to work
 
 You will require a reddit  client id and client secret
